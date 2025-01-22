@@ -1,0 +1,1 @@
+This project is a simple Payroll System implemented in Java. It demonstrates the use of object-oriented programming (OOP) concepts such as abstraction, inheritance, and polymorphism. The system allows for the creation and management of full-time and part-time employees, providing functionalities to calculate their salaries, add and remove employees, and display employee details.
